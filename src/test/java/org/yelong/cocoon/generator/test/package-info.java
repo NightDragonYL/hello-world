@@ -1,0 +1,1 @@
+package org.yelong.cocoon.generator.test;
